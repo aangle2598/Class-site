@@ -16,46 +16,99 @@
 }
 
 .paragraph {
-    font-family: "gotham", gotham, monospace;
+    font-family: "times new roman", times, monospace;
     font-weight: normal;
-    font-size: 10vw;
-    
-}
-
-.paragraph2 {
-    font-family: "gotham", gotham, monospace;
-    font-weight: normal;
-    font-size: 10vw;
+    font-size: 6vw;
     
 }
 
 .paragraph3 {
+    font-family: "arial", serif, monospace;
+    font-weight: normal;
+    font-size: 6vw;
+    
+}
+
+.paragraph4 {
+    font-family: "archer", gotham, monospace;
+    font-weight: normal;
+    font-size: 6vw;
+    
+}
+
+.paragraph5 {
+    font-family: "comic sans Ms", cursive, monospace;
+    font-weight: normal;
+    font-size: 6vw;
+    
+}
+
+.paragraph6 {
+    font-family: "gotham", gotham, monospace;
+    font-weight: normal;
+    font-size: 6vw;
+    
+}
+
+.paragraph7 {
     font-family: "gotham", gotham, monospace;
     font-weight: normal;
     font-size: 10vw;
     
 }
+
+.paragraph8 {
+    font-family: "chalkboard", thin, monospace;
+    font-weight: normal;
+    font-size: 6vw;
+    
+}
+
 .right {
   right: 0;
   background-color: floralwhite;
 }
 
 .paragraph-1 {
-    font-family: "gotham", gotham, monospace;
+    font-family: "times new roman", sans-serif, monospace;
     font-weight: normal;
-    font-size: 10vw;
+    font-size: 6vw;
 }
 
 .paragraph-2 {
     font-family: "gotham", gotham, monospace;
     font-weight: normal;
-    font-size: 10vw;
+    font-size: 6vw;
 }
 
 .paragraph-3 {
-    font-family: "gotham", gotham, monospace;
+    font-family: "chalkboard", thin, monospace;
     font-weight: normal;
-    font-size: 10vw;
+    font-size: 6vw;
+}
+
+.paragraph-4 {
+    font-family: "archer", gotham, monospace;
+    font-weight: normal;
+    font-size: 6vw;
+}
+
+.paragraph-6 {
+    font-family: "arial", serif, monospace;
+    font-weight: normal;
+    font-size: 6vw;
+}
+
+.paragraph-7 {
+    font-family: "baskerville", gotham, monospace;
+    font-weight: normal;
+    font-size: 6vw;
+}
+
+.paragraph-8 {
+    font-family: "comic sans MS", cursive, monospace;
+    font-weight: normal;
+    font-size: 6vw;
 }
 
 .centered {
