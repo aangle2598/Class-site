@@ -1,0 +1,237 @@
+
+ .paragraph2{
+    text-align: center;
+    font-size: 40px;
+    font-family: "linotype univers", Times, serif;
+    font-weight: bolder;
+    text-transform: uppercase;
+    letter-spacing: .1em; 
+    color:white;
+    opacity:0;
+    
+}
+ 
+
+.overlay {
+
+    position:relative;
+
+    top:0;
+
+    left:0;
+
+    z-index:1;
+
+}
+
+ .paragraph3{
+    text-align: center;
+    font-size: 40px;
+    font-family: "linotype univers", Times, serif;
+    font-weight: bolder;
+    text-transform: uppercase;
+    letter-spacing: .1em; 
+    color:white;
+    opacity:0;
+    
+}
+ 
+
+.overlay2 {
+
+    position:relative;
+
+    top:0;
+
+    left:0;
+
+    z-index:1;
+
+}
+
+
+ .paragraph4{
+    text-align: center;
+    font-size: 40px;
+    font-family: "linotype univers", Times, serif;
+    font-weight: bolder;
+    text-transform: uppercase;
+    letter-spacing: .1em; 
+    color:white;
+    opacity:0;
+    
+}
+ 
+
+.overlay3 {
+
+    position:relative;
+
+    top:0;
+
+    left:0;
+
+    z-index:1;
+
+}
+
+.paragraph5{
+    text-align: center;
+    font-size: 40px;
+    font-family: "linotype univers", Times, serif;
+    font-weight: bolder;
+    text-transform: uppercase;
+    letter-spacing: .1em; 
+    color:white;
+    opacity:0;
+    
+}
+ 
+
+.overlay4 {
+
+    position:relative;
+
+    top:0;
+
+    left:0;
+
+    z-index:1;
+
+}
+
+.paragraph6{
+    text-align: center;
+    font-size: 40px;
+    font-family: "linotype univers", Times, serif;
+    font-weight: bolder;
+    text-transform: uppercase;
+    letter-spacing: .1em; 
+    color:white;
+    opacity:0;
+    
+}
+ 
+
+.overlay5 {
+
+    position:relative;
+
+    top:0;
+
+    left:0;
+
+    z-index:1;
+
+}
+
+
+.paragraph7{
+    text-align: center;
+    font-size: 40px;
+    font-family: "linotype univers", Times, serif;
+    font-weight: bolder;
+    text-transform: uppercase;
+    letter-spacing: .1em; 
+    color:white;
+    opacity:0;
+    
+}
+ 
+
+.overlay6 {
+
+    position:relative;
+
+    top:0;
+
+    left:0;
+
+    z-index:1;
+
+}
+
+.paragraph8{
+    text-align: center;
+    font-size: 40px;
+    font-family: "linotype univers", Times, serif;
+    font-weight: bolder;
+    text-transform: uppercase;
+    letter-spacing: .1em; 
+    color:white;
+    opacity:0;
+    
+}
+ 
+
+.overlay7 {
+
+    position:relative;
+
+    top:0;
+
+    left:0;
+
+    z-index:1;
+
+}
+
+.paragraph9{
+    text-align: center;
+    font-size: 40px;
+    font-family: "linotype univers", Times, serif;
+    font-weight: bolder;
+    text-transform: uppercase;
+    letter-spacing: .1em; 
+    color:white;
+    opacity:0;
+    
+}
+ 
+
+.overlay8 {
+
+    position:relative;
+
+    top:0;
+
+    left:0;
+
+    z-index:1;
+
+}
+
+
+.full{
+    position: absolute; 
+    top:50%;
+    left:50%;
+    transform:translate(-50%, -50%);
+    animation: fade-in 4s ease-in forwards;
+
+}
+
+   .paragraph{
+    text-align: center;
+    font-size: 40px;
+    font-family: "linotype univers", Times, serif;
+    font-weight: lighter;
+    text-transform: uppercase;
+    letter-spacing: .1em; 
+    color:hotpink;
+    
+    
+}
+
+
+
+
+@keyframes fade-in {
+    from {
+        opacity:0;
+    }
+    to {
+        opacity:1;
+    }
+    
+ 

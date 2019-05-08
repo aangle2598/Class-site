@@ -1,0 +1,18 @@
+.paragraph{
+    position:relative;
+    font-size: 40px;
+    float:right;
+    top:205%;
+    font-family: "linotype univers", Times, serif;
+    font-weight: lighter;
+    text-transform: uppercase;
+    letter-spacing: .1em; 
+    color:black;
+    opacity:.2
+    
+    
+    
+    
+    
+
+}
